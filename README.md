@@ -72,4 +72,8 @@ The dataset (`tips.xlsx`) contains information on:
 - Tip vs Total Bill Scatter Plot (colored by gender and smoker status)
 
 ---
-
+---
+1. Clone the repository:
+   
+bash
+   git clone https://github.com/yourusername/tips-data-analysis-project.git
